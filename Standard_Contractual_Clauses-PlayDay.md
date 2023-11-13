@@ -1,4 +1,4 @@
-# Standard Contractual Clauses (processors)
+## Standard Contractual Clauses (processors)
 
 For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection
 
@@ -22,7 +22,7 @@ each a 'party'; together 'the parties',
 
  HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
 
-## Clause 1
+### Clause 1
 
 Definitions
 ‍
@@ -40,13 +40,13 @@ Definitions
 
  (f) 'technical and organisational security measures' means those measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
 
-## Clause 2
+### Clause 2
 
 Details of the transfer
 
  The details of the transfer and in particular the special categories of personal data where applicable are specified in Appendix 1 which forms an integral part of the Clauses.
 
-## Clause 3
+### Clause 3
 
 Third-party beneficiary clause
 
@@ -58,7 +58,7 @@ Third-party beneficiary clause
 
  4. The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
 
-## Clause 4
+### Clause 4
 
 Obligations of the data exporter
 
@@ -84,7 +84,7 @@ Obligations of the data exporter
 
  (j) that it will ensure compliance with Clause 4(a) to (i).
 
-## Clause 5
+### Clause 5
 
 Obligations of the data importer [1]
 
@@ -110,7 +110,7 @@ Obligations of the data importer [1]
 
  (j) to send promptly a copy of any sub-processor agreement it concludes under the Clauses to the data exporter.
 
-## Clause 6
+### Clause 6
 
 Liability
 
@@ -120,7 +120,7 @@ Liability
 
  3. If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the sub-processor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the sub-processor agrees that the data subject may issue a claim against the data sub-processor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the sub-processor shall be limited to its own processing operations under the Clauses.
 
-## Clause 7
+### Clause 7
 
 Mediation and jurisdiction
 
@@ -132,7 +132,7 @@ Mediation and jurisdiction
 
  2. The parties agree that the choice made by the data subject will not prejudice its substantive or procedural rights to seek remedies in accordance with other provisions of national or international law.
 
-## Clause 8
+### Clause 8
 
 Cooperation with supervisory authorities
 
@@ -142,19 +142,19 @@ Cooperation with supervisory authorities
 
  3. The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any sub-processor preventing the conduct of an audit of the data importer, or any sub-processor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5(b).
 
-## Clause 9
+### Clause 9
 
 Governing law
 
  The Clauses shall be governed by the law of the Member State in which the data exporter is established.
 
-## Clause 10
+### Clause 10
 
 Variation of the contract
 
  The parties undertake not to vary or modify the Clauses. This does not preclude the parties from adding clauses on business related issues where required as long as they do not contradict the Clause.
 
-## Clause 11
+### Clause 11
 
 Sub-processing
 
@@ -166,7 +166,7 @@ Sub-processing
 
  4. The data exporter shall keep a list of sub-processing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year. The list shall be available to the data exporter's data protection supervisory authority.
 
-## Clause 12
+### Clause 12
 
 Obligation after the termination of personal data-processing services
 
@@ -176,7 +176,7 @@ Obligation after the termination of personal data-processing services
 
  [1] Mandatory requirements of the national legislation applicable to the data importer which do not go beyond what is necessary in a democratic society on the basis of one of the interests listed in Article 13(1) of Directive 95/46/EC, that is, if they constitute a necessary measure to safeguard national security, defence, public security, the prevention, investigation, detection and prosecution of criminal offences or of breaches of ethics for the regulated professions, an important economic or financial interest of the State or the protection of the data subject or the rights and freedoms of others, are not in contradiction with the standard contractual clauses. Some examples of such mandatory requirements which do not go beyond what is necessary in a democratic society are, inter alia, internationally recognised sanctions, tax-reporting requirements or anti-money-laundering reporting requirements.
 
-## Appendix 1 to the Standard Contractual Clauses
+### Appendix 1 to the Standard Contractual Clauses
 
 **Data exporter**
 
@@ -208,7 +208,7 @@ Obligation after the termination of personal data-processing services
 
  The processing operations are defined in the PlayDay Privacy Policy.
 
-## Appendix 2 to the Standard Contractual Clauses
+### Appendix 2 to the Standard Contractual Clauses
 
 This Appendix forms part of the Clauses. By accessing the Playday website or its mobile applications and agreeing to the Playday Privacy Policy, the parties will be deemed to have accepted and executed this Appendix 2.
 
