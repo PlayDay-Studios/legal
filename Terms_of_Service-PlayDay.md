@@ -1,6 +1,6 @@
-## Terms of Service**
+## Terms of Service
 
-**DATE LAST MODIFIED: August 02, 2021.**
+**DATE LAST MODIFIED: November 10, 2023.**
 
 ### Acceptance of Terms
 
