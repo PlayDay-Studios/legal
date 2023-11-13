@@ -1,14 +1,14 @@
-# PlayDay Cookie Policy
+## PlayDay Cookie Policy
 
-_Last Updated: August 02, 2021
+Last Updated: August 02, 2021
 
  PlayDay LLC ("Company") is committed to protecting your personal information and ensuring your experience with us is as safe and as enjoyable as possible. This Cookie Policy ("Cookie Policy") is subject to the Playday Privacy Policy and integrated into the Privacy Policy. This Cookie Policy is designed to explain to you how and why we use "cookies".  Additionally, this Cookie Policy explains how to manage the information that is collected through our use of cookies.  Any capitalized terms that are undefined shall have meanings as defined within our [_Privacy Policy_](https://www.playdaystudios.com/legal).
 
-## What Are Cookies?
+### What Are Cookies?
 
 Most websites use cookies to improve your browsing experience. Cookies are small amounts of information in the form of text files sent by websites or emails to your computer, mobile phone or other device when you visit our website. They allow companies to do various things such as tailoring the content you see and ensuring the security of your online experience. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-## Cookie Uses
+### Cookie Uses
 
 We uses cookies for the following purposes:
 
@@ -17,7 +17,7 @@ We uses cookies for the following purposes:
 - To understand you how you interact with Facebook and our Services and to remember your advertising preferences based on your Facebook information.
 - To track your usage of the Services, provide us with information and analysis, and to help us improve the usability of our Services.  This allows us to understand how and why you are using our Services so that we may make your visits to the Services better.
 
-## Types of Cookies Used
+### Types of Cookies Used
 
 The Service uses necessary and analytic cookies.  Any analytic cookies may be disabled as explained within this policy.  The Service uses the following cookies:
 
@@ -32,15 +32,15 @@ The Service uses necessary and analytic cookies.  Any analytic cookies may be di
 | Bling | PlayDaycookie |
  | This cookie detects whether a visitor has previously accepted the Cookie Policy and whether it should display it again. No expiration. |
 
-## Third Party Cookies
+### Third Party Cookies
 
 You may have seen references on other websites to "first party cookies" and "third party cookies." Determining whether or not a cookie is a first or third party cookie depends on which website sets the cookie on your device. First party cookies are set by, or on behalf of, the company whose website you visit. Cookies set by any other company are third party cookies. For example, third party cookies may be used by advertising companies to serve ads when you visit their website. Currently, Playday does not use any third party cookies and all first party cookies are listed above.
 
-## What If I Don't Want to Accept Cookies?
+### What If I Don't Want to Accept Cookies?
 
 You can choose to not accept cookies set by Playday or any other company by using the cookie pop-up at the time you visit our Platform. Additionally, you can set your browser to notify you when a web server attempts to write or load a cookie to your computer. This gives you a chance to accept or reject the cookie. Please be aware that rejecting any necessary cookies may render some portions of the Service inaccessible or otherwise cause the improper functioning of portions of the Service.
 
-## How Can I Control Cookies?
+### How Can I Control Cookies?
 
 You can choose to restrict or block access to cookies set by Playday or any other company by using the cookie pop-up at the time you visit our Service.  Additionally, if you don't want to receive cookies, you can modify your browser so that you are alerted when any cookies are being placed on your computer. Additionally, you can reject all cookies or you may delete cookies that have already been set.
 
@@ -65,13 +65,13 @@ Blocking all cookies will, however, have a negative impact upon the usability of
 3. in Google Chrome you can adjust your cookie permissions by clicking "Options", "Under the hood", Content Settings in the "Privacy" section. Click on the Cookies tab in the Content Settings.
 4. in Safari you can delete cookies by clicking "Preferences", selecting the "Privacy" tab and "Remove All Website Data".
 
-## Opting Out
+### Opting Out
 
 You may opt out of some of the cookies by doing the following:
 
 - Google - [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 - Facebook - [https://www.facebook.com/ads/preferences](https://www.facebook.com/ads/preferences)
 
-## Questions
+### Questions
 
 If you have any additional questions regarding our use of cookies, please contact us at [support@playdaystudios.com](mailto:support@playdaystudios.com).
