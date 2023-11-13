@@ -34,7 +34,7 @@ If you have any questions or wish to review, remove, change, or access any of yo
 
 We use cookies as stated within our Cookie Policy. Cookies must be enabled in your browser in order for some of our Services to function properly. If you disable cookies from your web browser some portions, some of our Services may not work.  Our Cookie Policy is integrated into the Privacy Policy.
 
-## 6. Third Party Access to Your Information
+### 6. Third Party Access to Your Information
 
 Although you are entering into an Agreement with Company to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, marketers, customer service organizations, and others to allow you to access the Platform. We also use the Bling Platform for account registration, registration, and recordkeeping. The [Bling Platform Privacy Policy](https://www.blingfi.com/legal#Privacy) is hereby incorporated into this Privacy Policy.
 
