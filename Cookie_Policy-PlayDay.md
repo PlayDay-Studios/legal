@@ -29,8 +29,7 @@ The Service uses necessary and analytic cookies.  Any analytic cookies may be di
 | Google Analytics | Collect | Analytic | Used to distinguish users and track visitors across marketing channels. Session cookie. |
 | Facebook Pixel | fbevents.js | Analytic | Used to measure, optimize and build audiences for advertising campaigns served on Facebook. 180 days expiry. |
 | Facebook Pixel | fbevents.js | Advertising | Used to see how our users move between devices when accessing the application and Facebook and to ensure that relevant advertising is displayed to users. 180 days expiry. |
-| Bling | PlayDaycookie |
- | This cookie detects whether a visitor has previously accepted the Cookie Policy and whether it should display it again. No expiration. |
+| Bling | PlayDaycookie | | This cookie detects whether a visitor has previously accepted the Cookie Policy and whether it should display it again. No expiration. |
 
 ### Third Party Cookies
 
